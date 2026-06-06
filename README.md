@@ -24,7 +24,7 @@
 ## 📂 Cấu trúc thư mục dự án (Repository Structure)
 Dự án được tổ chức khoa học theo cấu trúc chuẩn để giảng viên tiện theo dõi và đánh giá:
 
-
+```text
 ├── 📑 Document/
 │   └── báo cáo đồ án IOT.docx             # File báo cáo chi tiết 14 trang
 └── 💻 Source_Code/                        # Toàn bộ mã nguồn C++ xuất từ Edge Impulse
